@@ -1,0 +1,30 @@
+body {
+    background: rgb(85, 114, 114);
+    font: normal 15pt Georgia;
+}
+
+header {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h1 {
+    font: italic 30pt Georgia;
+}
+
+section {
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    padding: 25px;
+    width: 350px;
+    margin: auto;
+    box-shadow: 2px 2px 8px black;
+}
+
+footer {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-style: italic;
+    font-size: 12pt;
+}
